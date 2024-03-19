@@ -13,7 +13,7 @@ const sftp = new Client();
       host: 'sftp://student116.files.com/files/',
       port: 22,
       username: 'mukuljha302@gmail.com',
-      password: 'Filessftp392@',
+      password: 'Filessftp',
     });
 
     console.log('Connected to SFTP server');
